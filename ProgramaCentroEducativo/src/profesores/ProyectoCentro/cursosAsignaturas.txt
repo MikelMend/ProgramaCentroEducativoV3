@@ -1,0 +1,26 @@
+1EREDES,   Redes de �?rea Local
+1EOFIMA,   Ofimática
+1ESISOP,   Sistemas Operativos
+1EFOL,   Formación y Orientación Laboral
+1EINGLES,   Inglés
+1GREDES,   Redes de �?rea Local
+1GOFIMA,   Ofimática
+1GSISOP,   Sistemas Operativos
+1GFOL,   Formación y Orientación Laboral
+1FREDES,   Redes de �?rea Local
+1FOFIMA,   Ofimática
+1FSISOP,   Sistemas Operativos
+1FFOL,   Formación y Orientación Laboral
+1FINGLES,   Inglés
+1WPROGRAM,   Programación
+1WLENGMAR,   Lenguajes de Marcas
+1WENTORNOS,   Entornos de Desarrollo
+1WSISOPE,   Sistemas Operativos
+1WFOL,   Formación y Orientación Laboral
+1WINGLES,   Inglés
+1SPROGRAM,   Programación
+1SLENGMAR,   Lenguajes de Marcas
+1SENTORNOS,   Entornos de Desarrollo
+1SSISOPE,   Sistemas Operativos
+1SFOL,   Formación y Orientación Laboral
+1SINGLES,   Inglés

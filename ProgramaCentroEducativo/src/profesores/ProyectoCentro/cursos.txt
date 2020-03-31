@@ -1,0 +1,5 @@
+1E,       SMR MaÃ±ana
+1G,       SMR Tarde
+1F,       SMR Tarde
+1W,    DAW Tarde
+1S,   DAW Mañana

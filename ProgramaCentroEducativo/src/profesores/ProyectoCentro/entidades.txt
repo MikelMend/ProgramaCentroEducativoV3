@@ -1,0 +1,6 @@
+2100,         Caixabank
+0081,         Banco Sabadell
+1465,         ING Bank
+0081,         Banco Sabadell
+2038,         Bankia
+0049,         Banco Santander
